@@ -14,5 +14,5 @@ Busca incentivar el uso e implementación de Software Libre en toda la Universid
 
 ### Conoce más
 
-[Iniciativas](MLeonardoMP.github.io/iniciativas)
+[Iniciativas](http://mleonardomp.github.io/iniciativas/)
 
