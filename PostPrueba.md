@@ -1,0 +1,5 @@
+---
+layout: post
+title : prueba
+
+probando post.md
