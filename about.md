@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Sobre el blog
+title: Este Blog
 permalink: /about/
 published: true
 ---
 
 
-A place to include any other types of information that you'd like to include about yourself. 
+Busca incentivar el uso e implementación de Software Libre en toda la Universidad Nacional de Colombia, en su devisión académica y administrativa. Para lograr esto se buca rescatar, recoger y plantear proyectos, iniciativas y esrtategias, en relación con el SOftware Libre en la UN.
 
 ### Contacto
 
