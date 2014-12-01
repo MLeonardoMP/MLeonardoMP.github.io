@@ -6,7 +6,7 @@ published: true
 ---
 
 
-Busca incentivar el uso e implementación de Software Libre en toda la Universidad Nacional de Colombia, en su devisión académica y administrativa. Para lograr esto se buca rescatar, recoger y plantear proyectos, iniciativas y esrtategias, en relación con el SOftware Libre en la UN.
+Busca incentivar el uso e implementación de Software Libre en toda la Universidad Nacional de Colombia, en su devisiones académica y administrativa. Para lograr esto se buca rescatar, recoger y plantear proyectos, iniciativas y esrtategias, en relación con el Software Libre en la UN.
 
 ### Contacto
 
