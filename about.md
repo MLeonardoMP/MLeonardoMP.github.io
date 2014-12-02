@@ -12,7 +12,10 @@ Busca incentivar el uso e implementación de Software Libre en toda la Universid
 
 [mlmosquerap@unal.edu.com](mailto:mlmosquerap@unal.edu.co)
 
-### Conoce más
+### Sitio construido con
 
-[Iniciativas](http://mleonardomp.github.io/iniciativas/)
+* Jekyll
+* MarkDown
+* Reveal
+* GitHub Pages
 
