@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Iniciativas
+title: Agregada sección de iniciativas
 ---
 
-Se agregó sección de iniciativas en donde encontraremos un recopilado de proyectos de migración a software de la Universidad Nacional de Colombia, tales como los realizados en la materia Taller de proyectos interdiciplinarios (TPI) y una tesis de grado de pregrado de 2004.
+Se agregó sección de iniciativas en donde encontraremos un recopilado de documentos disponibles para descargar de proyectos de migración a software de la Universidad Nacional de Colombia, tales como los realizados en la materia Taller de proyectos interdiciplinarios (TPI) y una tesis de grado de pregrado de 2004. También un repositorio de documentos con más informacón sobre el tema.
 
 
 ***
