@@ -15,6 +15,10 @@ Se agregó sección de iniciativas en donde encontraremos un recopilado de docum
 * [Descargar documento 2014-01](https://raw.githubusercontent.com/MLeonardoMP/MLeonardoMP.github.io/master/_pdf/Documento Final-2014-2.pdf)
 * [Dropbox de los proyectos](https://www.dropbox.com/sh/c0019vxcx5zy9m2/AACbkmLpGMWE_zC9iTUQaecYa?dl=0)
 
+***
+
 ### 2. Tesis : Modelo para la implementación de software libre en la UNAL 2004
 
 * [Descargar documento 2004](https://raw.githubusercontent.com/MLeonardoMP/MLeonardoMP.github.io/master/_pdf/Modelo para la implementación de Software Libre en la UNAL(22).pdf)
+
+***
