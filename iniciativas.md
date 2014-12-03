@@ -3,6 +3,7 @@ layout: page
 title: Iniciativas
 permalink: /iniciativas/
 published: true
+comments: true
 ---
 ### 1. Proyectos de migración - TPI
 
