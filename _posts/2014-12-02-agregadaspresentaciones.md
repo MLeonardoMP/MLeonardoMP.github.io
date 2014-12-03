@@ -3,7 +3,7 @@ layout: post
 title: Agregada sección de presentacioens
 ---
 
-Se agregó la sección en la cuál encotnremos presentaciones relacionadas con el tema de migración a software libre en la Universidad Nacional de Colombia, y también con temas de interés como la Ley Lleras.
+Se agregó la sección en la cual encontraremos presentaciones relacionadas con el tema de migración a software libre en la Universidad Nacional de Colombia, y también con temas de interés como la Ley Lleras.
 
 ***
 
